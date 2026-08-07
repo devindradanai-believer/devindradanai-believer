@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Devindra Raj Danai 👋
 
-<!--
-**devindradanai-believer/devindradanai-believer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring aerospace engineer, working toward an undergraduate degree in aerospace/mechanical engineering — with the long-term goal of becoming an astronaut.
 
-Here are some ideas to get you started:
+🤖 Currently learning robotics and embedded systems hands-on through an internship at the **Robotics Association of Nepal**, where I'm also stepping into a mentor role teaching robotics basics to school students.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in Kathmandu, Nepal.
+
+---
+
+### 🔭 What I'm working on
+
+- **[robotics-learning-log](https://github.com/devindradanai-believer/robotics-learning-log)** — my hands-on journey through Arduino and embedded systems, from single-sensor basics up to a fully integrated smart parking barrier system.
+
+### 🌱 What I'm learning
+
+- Embedded systems fundamentals (sensors, actuators, microcontroller logic)
+- Circuit design and simulation (Tinkercad, Arduino)
+- Preparing for an aerospace/mechanical engineering undergraduate path
+
+### ✈️ Why this path
+
+I want to study engineering that puts me on a real path toward spaceflight — not just as a dream, but as a career built one project, one concept, and one system at a time. This profile is where I document that process as it happens.
+
+### 📫 Reach me
+
+- GitHub: [@devindradanai-believer](https://github.com/devindradanai-believer)
+- LinkedIn: [Devindra Raj Danai](https://www.linkedin.com/in/devindra-raj-danai-460531420)
+- Email: devindradanai727@gmail.com
+
+---
+
+*"Every system I build now is practice for the systems I want to help design later."*
