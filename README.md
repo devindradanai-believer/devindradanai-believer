@@ -10,7 +10,7 @@
 
 ### 🔭 What I'm working on
 
-- **[rocket-trajectory-simulator](https://github.com/devindradanai-believer/rocket-trajectory-simulator)** — a Python physics model of a rocket's ascent, validated against real Estes C6 motor data through iterative tuning (within ~3-4% of real-world altitude).
+- **[rocket-trajectory-simulator](https://github.com/devindradanai-believer/rocket-trajectory-simulator)** — a Python physics model of a rocket's ascent, validated against real Estes C6 motor data through iterative tuning (within ~0.22% of real-world altitude).
 - **[robotics-learning-log](https://github.com/devindradanai-believer/robotics-learning-log)** — my hands-on journey through Arduino and embedded systems, from single-sensor basics up to a fully integrated smart parking barrier system.
 
 ### 🌱 What I'm learning
